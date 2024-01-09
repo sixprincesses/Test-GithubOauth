@@ -1,5 +1,6 @@
-package com.devlog.github;
+package com.devlog.github.client;
 
+import com.devlog.github.client.OAuthClient;
 import com.devlog.github.dto.OAuthGithubAccessTokenRequest;
 import com.devlog.github.dto.OAuthGithubAccessTokenResponse;
 import com.devlog.github.dto.OAuthGithubUserInfoResponse;
@@ -13,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.Optional;
 
 @Component
-public class GithubOAuthClient {
+public class GithubOAuthClient implements OAuthClient {
 
     private static final RestTemplate restTemplate = new RestTemplate();
     private final String clientId;

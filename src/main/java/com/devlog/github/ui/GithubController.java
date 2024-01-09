@@ -1,5 +1,6 @@
-package com.devlog.github;
+package com.devlog.github.ui;
 
+import com.devlog.github.client.GithubOAuthClient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
