@@ -12,5 +12,4 @@
 ## Ref
 
 1. [소셜 로그인 (OAuth) by Github - 정진철](https://velog.io/@bik1111/%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-OAuth-by-Github)
-2. [Github OAuth 로그인 구현하기 - 자바지기](https://park-algorithm.tistory.
-   com/entry/Github-OAuth-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+2. [Github OAuth 로그인 구현하기 - 자바지기](https://park-algorithm.tistory.com/entry/Github-OAuth-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
