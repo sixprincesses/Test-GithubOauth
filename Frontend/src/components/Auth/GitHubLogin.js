@@ -2,7 +2,7 @@ import React from 'react';
 import './GitHubLogin.css'
 
 const clientId = 'c1b613314ee5f221f1aa';
-const redirectURL = 'http://localhost:3000'; 
+const redirectURL = 'http://localhost:8080/users/github/callback'; 
 
 const GitHubLogin = () => {
   const handleLogin = () => {

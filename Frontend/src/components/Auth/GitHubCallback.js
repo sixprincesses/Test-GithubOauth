@@ -6,7 +6,7 @@ const GitHubCallback = () => {
   const location = useLocation();
   
   const getAccessToken = async (authorizationCode) => { 
-    let callbackURL = 'http://localhost:8080/callback'; // 서버에 access token 요청 URL
+    let callbackURL = 'http://localhost:8080/users/github/callback'; // 서버에 access token 요청 URL
     await axios.post(callbackURL, {
       authorizationCode
     }) 
