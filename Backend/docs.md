@@ -16,7 +16,7 @@
 
 <img width="800" src="https://github.com/KIMSEI1124/CI_CD_Study/assets/74192619/7c502ff9-aa9a-4819-a737-ed086c2e0d12" />
 
-4. 위 사진과 같이 URL을 작성합니다. 실제로 운영을한다면 도메인을 작성하시면 됩니다.
+4. 위 사진과 같이 URL 을 작성합니다. 실제로 운영을한다면 도메인을 작성하시면 됩니다.
 
 <img width="800" src="https://github.com/KIMSEI1124/CI_CD_Study/assets/74192619/45e5b425-5112-40e3-b0ce-292d24f0fd2f" />
 
@@ -28,7 +28,7 @@
 
 - Java 17.0.9
 - Spring Boot 3.1.7
-- Window10 or MacOS
+- Window10 or macOS
 
 위와 같은 환경을 구성하였습니다.
 
